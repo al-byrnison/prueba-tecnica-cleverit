@@ -6,6 +6,18 @@ para levantar el proyecto:
 
 -Clonar el repositorio:
 
+```sh
+git clone https://github.com/al-byrnison/prueba-tecnica-cleverit.git
+```
+
 -Instalar las dependencias con el comando:
 
--Levantar el proyecto en local con: 
+```sh
+npm install
+```
+
+-Levantar el proyecto en local con:
+
+```sh
+npm run dev
+```
